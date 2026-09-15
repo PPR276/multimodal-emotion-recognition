@@ -1,10 +1,10 @@
 name:                multimodal-emotion-hdc
 version:             0.1.0.0
-github:              "githubuser/multimodal-emotion-hdc"
+github:              "PPR276/multimodal-emotion-hdc"
 license:             BSD-3-Clause
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2026 Author name here"
+author:              "Pamula Pravallika Reddy"
+maintainer:          "pamulapravallikareddy@gmail.com"
+copyright:           "2026 Pamula Pravallika Reddy"
 
 extra-source-files:
 - README.md
